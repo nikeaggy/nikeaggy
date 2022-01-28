@@ -1,0 +1,7 @@
+print(21%6)
+print(2+2)
+print(54-8)
+print(5*6)
+print(45/5)
+print(45**2)
+print(55%2)
